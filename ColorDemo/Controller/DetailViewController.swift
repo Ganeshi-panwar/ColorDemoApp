@@ -8,6 +8,8 @@
 import UIKit
 
 class DetailViewController: UIViewController {
+    // add var name
+    // this is new feature
     var color: UIColor?
 
     override func viewDidLoad() {
